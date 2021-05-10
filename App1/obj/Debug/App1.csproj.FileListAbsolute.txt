@@ -1,0 +1,6 @@
+/Users/andreyandryukhin/Repositories/Geekbrains/Lesson1/App1/obj/Debug/App1.csprojAssemblyReference.cache
+/Users/andreyandryukhin/Repositories/Geekbrains/Lesson1/App1/obj/Debug/App1.csproj.CoreCompileInputs.cache
+/Users/andreyandryukhin/Repositories/Geekbrains/Lesson1/App1/bin/Debug/App1.exe
+/Users/andreyandryukhin/Repositories/Geekbrains/Lesson1/App1/bin/Debug/App1.pdb
+/Users/andreyandryukhin/Repositories/Geekbrains/Lesson1/App1/obj/Debug/App1.exe
+/Users/andreyandryukhin/Repositories/Geekbrains/Lesson1/App1/obj/Debug/App1.pdb
