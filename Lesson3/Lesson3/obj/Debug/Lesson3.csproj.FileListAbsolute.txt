@@ -1,0 +1,6 @@
+/Users/andreyandryukhin/Repositories/GeekB/Lesson3/Lesson3/bin/Debug/Lesson3.exe
+/Users/andreyandryukhin/Repositories/GeekB/Lesson3/Lesson3/bin/Debug/Lesson3.pdb
+/Users/andreyandryukhin/Repositories/GeekB/Lesson3/Lesson3/obj/Debug/Lesson3.csprojAssemblyReference.cache
+/Users/andreyandryukhin/Repositories/GeekB/Lesson3/Lesson3/obj/Debug/Lesson3.csproj.CoreCompileInputs.cache
+/Users/andreyandryukhin/Repositories/GeekB/Lesson3/Lesson3/obj/Debug/Lesson3.exe
+/Users/andreyandryukhin/Repositories/GeekB/Lesson3/Lesson3/obj/Debug/Lesson3.pdb

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F591DDAC-37FA-4E74-8D75-56872F5EB219}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lesson3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lesson3/Fraction.cs">
+    <Files>
+      <File FileName="Lesson3/Program.cs" Line="121" Column="61" />
+      <File FileName="Lesson3/Fraction.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lesson3" expanded="True">
+            <Node name="Lesson3" expanded="True">
+              <Node name="Fraction.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
